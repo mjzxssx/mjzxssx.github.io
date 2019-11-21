@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>游刃有鱼</title>
     <link>https://mjzxssx.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 游刃有鱼</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 21 Nov 2019 14:13:30 +0800</lastBuildDate>
     
 	<atom:link href="https://mjzxssx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>achives</title>
+      <link>https://mjzxssx.github.io/achives/</link>
+      <pubDate>Thu, 21 Nov 2019 14:13:30 +0800</pubDate>
+      
+      <guid>https://mjzxssx.github.io/achives/</guid>
+      <description>。 。 。 。 。 。。 。。 。。 。。 。。 。。。 。。。 。。。 。。。 。。。 。。。。 。。。。 。。。。 。。。。 。。。。</description>
+    </item>
     
   </channel>
 </rss>
