@@ -1,34 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>游刃有鱼</title>
-    <link>https://mjzxssx.github.io/</link>
-    <description>Recent content on 游刃有鱼</description>
+    <title>C&#43;&#43;StudyStories on 游刃有鱼</title>
+    <link>https://mjzxssx.github.io/c&#43;&#43;studystory/</link>
+    <description>Recent content in C&#43;&#43;StudyStories on 游刃有鱼</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Nov 2019 14:39:29 +0800</lastBuildDate>
     
-	<atom:link href="https://mjzxssx.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mjzxssx.github.io/c++studystory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>类</title>
-      <link>https://mjzxssx.github.io/post/c&#43;&#43;studystory/%E7%B1%BB/</link>
+      <link>https://mjzxssx.github.io/c&#43;&#43;studystory/%E7%B1%BB/</link>
       <pubDate>Thu, 21 Nov 2019 14:39:29 +0800</pubDate>
       
-      <guid>https://mjzxssx.github.io/post/c&#43;&#43;studystory/%E7%B1%BB/</guid>
+      <guid>https://mjzxssx.github.io/c&#43;&#43;studystory/%E7%B1%BB/</guid>
       <description>???????????????????????????????????? ??? class Clock { public: void setTime(int newH, int newM, int newS); void showTime();
 private: int hour, minute, second; }; ???????????????? ??:?????????????????? ?????????????????? ??????????????????????????�::�?????????? ??????????????????????????????????? ???????????? �=default&amp;rdquo;????????????????????? ????????????????????????? Clock() = default;//????????????? Clock(int newH,int newM,int newS);//???? 1 class Clock { 2 public: 3 Clock(int newH, int newM, int newS); 4 void setTime(int newH, int newM, int newS); 5 void showTime(); 6
 7 private: 8 int hour = 0, minute = 0, second = 0; 9 }; 10 Clock::Clock(int newH, int newM, int newS) : 11 hour(newH), minute(newM), second(newS) { 12 //?</description>
-    </item>
-    
-    <item>
-      <title>achives</title>
-      <link>https://mjzxssx.github.io/achives/</link>
-      <pubDate>Thu, 21 Nov 2019 14:13:30 +0800</pubDate>
-      
-      <guid>https://mjzxssx.github.io/achives/</guid>
-      <description>。 。 。 。 。 。。 。。 。。 。。 。。 。。。 。。。 。。。 。。。 。。。 。。。。 。。。。 。。。。 。。。。 。。。。</description>
     </item>
     
   </channel>
